@@ -1,0 +1,101 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="www.wallfineventas.com" resolutions="1x" timestamp="1655510477342">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="compra.css" crc="4123486066" ref="compra"/>
+    <file name="index.css" crc="212888868" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="mort-grout-nm-2021..pdf" crc="498547417" seo="true" mt="1654713874000"/>
+    <file name="ficha-tecnica-imper-elast..2020.pdf" crc="85033509" seo="true" mt="1654707115000"/>
+    <file name="wall-shutter-2021.pdf" crc="359772479" seo="true" mt="1654707550000"/>
+    <file name="ficha-técnica-wall-protec-q-2021.pdf" crc="409817403" seo="true" mt="1654713557000"/>
+    <file name="ficha-tecnica-wall-sello-e.pdf" crc="84843650" seo="true" mt="1654707605000"/>
+    <file name="wall-tex-ar-2021..pdf" crc="4257361961" seo="true" mt="1654713715000"/>
+    <file name="infornación-técnica-sft-2----2021.pdf" crc="4063966089" seo="true" mt="1654713692000"/>
+    <file name="infornación-técnica-sft-2----20212.pdf" crc="4063966089" seo="true" mt="1654713617000"/>
+    <file name="ficha-tecnica-polibau-2020.pdf" crc="106796693" seo="true" mt="1654713056000"/>
+    <file name="ficha-tecnica-imper-kolor-¦s-1000-2020.pdf" crc="4290890102" seo="true" mt="1654713585000"/>
+    <file name="ficha-tecnica-nano-master-1400.-2020.pdf" crc="4147296147" seo="true" mt="1654713745000"/>
+    <file name="ficha-tecnica-master-kolor-¦s-800--2020.pdf" crc="104498764" seo="true" mt="1654713526000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:compra"/>
+    <file name="museutils.js" crc="3803043152" ref="index:compra"/>
+    <file name="whatinput.js" crc="86476730" ref="index:compra"/>
+    <file name="museconfig.js" crc="380897831" ref="index:compra"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:compra"/>
+    <file name="require.js" crc="4157109226" ref="index:compra"/>
+    <file name="webpro.js" crc="242022427" ref="compra"/>
+    <file name="form_check.php" crc="147359589" ref="compra"/>
+    <file name="form_throttle.php" crc="93986428" ref="compra"/>
+    <file name="form_process.php" crc="3851993751" ref="compra"/>
+    <file name="form-u830.php" crc="182340362" ref="compra"/>
+  </folder>
+  <folder name="images">
+    <file name="logo 33.png" crc="326223085" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubeta mort grout.png" crc="362526373" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubeta etiquetas wall fine.png" crc="3793090950" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubeta wall shutter.png" crc="4287020061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wall-protec q.png" crc="302401400" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="wall-sello e.png" crc="4287016378" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubeta wall tex ar.png" crc="332846495" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="garrafa sft2.png" crc="3986856711" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="garrafa.png" crc="3945673571" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="polibau.png" crc="4215217850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imper-kolor´s 1000.png" crc="201585149" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cubeta nano-master 1400.jpg" crc="480110546" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="master-kolor´s 800.png" crc="4108296633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imagen pegada 1000x500.jpg" crc="4202161828" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cualidades_02.png" crc="4199997700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cualidades_03.png" crc="4235930177" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cualidades_04.png" crc="4145004108" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-veterinaria.png" crc="447307842" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-youtube-png-clipart-11-300x300-1.png" crc="151299545" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cualidades_01.png" crc="3942279632" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo 33450x278.png" crc="3904920328" seo="true" ref="compra">
+      <caption webpage="compra" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="4186798332" seo="true" mt="1655499880592" redirect="true"/>
+  <file name="compra.html" crc="3995479787" seo="true" mt="1655506838432" redirect="true"/>
+</manifest>
